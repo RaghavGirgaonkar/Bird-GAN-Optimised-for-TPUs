@@ -7,7 +7,8 @@ The architecture of the GAN was inspired by [this Face-GAN](https://github.com/j
 
 The Google Colab notebook can be run [here](https://colab.research.google.com/drive/1_jerqSSkL0e0VvqUcAFx6uyFv6HgCCLO?usp=sharing), if you plan to use your own dataset you will need Google Cloud storage and will need to upload your dataset as a Tensorflow record file to run this notebook on TPUs.
 
-Any comments or suggestions are welcome and feel free to contact us for the same!
+Any comments or suggestions are welcome and feel free to contact us for the same! We'd also love to see any interesting birds that you may generate. 
+Happy training!
 
 
 # Generated Birds
