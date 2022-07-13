@@ -1,5 +1,5 @@
 # Bird-GAN-Optimised-for-TPUs
-A Generative Adversarial Network for creating Birds: optimised to run on  Google's Tensor Processing Units
+A Deep Convolutional Generative Adversarial Network for creating Birds: optimised to run on Google's Tensor Processing Units
 
 The network was trained on the [Bird Dataset on Kaggle](https://www.kaggle.com/datasets/gpiosenka/100-bird-species) which has over 58000 images of birds across 400 different species. 
 
